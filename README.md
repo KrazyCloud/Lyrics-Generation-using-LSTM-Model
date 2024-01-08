@@ -49,4 +49,4 @@ Below is an example of generating lyrics using the provided code:
 Contributions and feedback are welcome! Feel free to open issues for bugs or enhancements. Pull requests addressing problems or introducing new features are appreciated.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
